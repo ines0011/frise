@@ -1,11 +1,8 @@
 Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Text;Media;Media Credit;Media Caption;Media Thumbnail;Type;Group;Background
-<<<<<<< HEAD
 -3500;;;;;;;;;invention de l'écriture;;;;;;;;
 -2680;;;;;;;;;pyramide Djoser;"Première pyramide signée d'un ""architecte""";;;;;;;
-=======
--3500;;;;;;;;;invention de l'écriture;;;;;;title;;
+-3500;;;;;;;;;invention de l'écriture;;;;;;;;
 -2680;;;;;;;;;pyramide Djoser;Première pyramide signée d'un architecte;;;;;;;
->>>>>>> 322504b1d064ff56df396c94f9b4d10830245bbb
 -1200;;;;;;;;;invention de l'alphabet;par les phénixciens;;;;;;;
 -776;;;;;;;;;premier jeux olypiques;;;;;;;;
 -623;;;;;;;;;naissance de bouddha;inde;;;;;;;
