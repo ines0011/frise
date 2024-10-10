@@ -1,5 +1,5 @@
 Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Text;Media;Media Credit;Media Caption;Media Thumbnail;Type;Group;Background
--3500;;;;;;;;;invention de l'écriture;;;;;;title;;
+-3500;;;;;;;;;invention de l'écriture;;;;;;;;
 -2680;;;;;;;;;pyramide Djoser;"Première pyramide signée d'un ""architecte""";;;;;;;
 -1200;;;;;;;;;invention de l'alphabet;par les phénixciens;;;;;;;
 -776;;;;;;;;;premier jeux olypiques;;;;;;;;
@@ -30,7 +30,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1534;;;;;;;;;Jacques Cartier débarque au Canada;;;;;;;;
 1543;;;;;;;;;Copernic affirme que la terre tourne autour du soleil;(polonais);;;;;;;
 1572;;;;;;;;;massacre de la Saint Barthélémy;;;;;;;;
--300000;;;;-3500;;;;;préhistoire;;;;;;;;
+-300000;;;;-3500;;;;;préhistoire;;;;;;Ere;;
 -3500;;;;476;;;;;antiquité;;;;;;;;
 40;;;;60;;;;;construction pont du Gard;aqueduc de nîme;;;;;;;
 476;;;;1492;;;;;Moyen Age;;;;;;;;
