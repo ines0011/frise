@@ -1,6 +1,11 @@
 Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Text;Media;Media Credit;Media Caption;Media Thumbnail;Type;Group;Background
+<<<<<<< HEAD
 -3500;;;;;;;;;invention de l'écriture;;;;;;;;
 -2680;;;;;;;;;pyramide Djoser;"Première pyramide signée d'un ""architecte""";;;;;;;
+=======
+-3500;;;;;;;;;invention de l'écriture;;;;;;title;;
+-2680;;;;;;;;;pyramide Djoser;Première pyramide signée d'un architecte;;;;;;;
+>>>>>>> 322504b1d064ff56df396c94f9b4d10830245bbb
 -1200;;;;;;;;;invention de l'alphabet;par les phénixciens;;;;;;;
 -776;;;;;;;;;premier jeux olypiques;;;;;;;;
 -623;;;;;;;;;naissance de bouddha;inde;;;;;;;
@@ -11,18 +16,18 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 33;;;;;;;;;crucifixion de Jesus Christ;;;;;;;;
 79;;;;;;;;;irruption du vesuve;Italie (ensevelissement de Pompéï;;;;;;;
 313;;;;;;;;;Edit de milan;christianisation de l'empire Romain sous Constantin 1er;;;;;;;
-406;;;;;;;;;debut invasions barbares en Gaule romaine;(Alamans, Burgondes, Vandales, Francs...);;;;;;;
+406;;;;;;;;;debut invasions barbares en Gaule romaine;(Alamans Burgondes Vandales Francs...);;;;;;;
 476;;;;;;;;;fin de l'empire romain d'occident;;;;;;;;
-481;;;;;;;;;sacre de Clovis;Reims, devient le premier roi des Francs;;;;;;;
+481;;;;;;;;;sacre de Clovis;Reims devient le premier roi des Francs;;;;;;;
 576;;;;;;;;;naissance de Mahomet;la mecque;;;;;;;
 622;;;;;;;;;début de l'Hégire (calendrier musulman);Émigration de Mahomet de La Mecque à Yathrib (Médine);;;;;;;
 800;12;25;;;;;;;sacre de l'empereur charlemagne;;;;;;;;
 987;;;;;;;;;election du roi Hughes Capet;;;;;;;;
 1099;;;;;;;;;première croisade et prise de Jérusalem;;;;;;;;
-1214;7;27;;;;;;;bataille de Bouvines;Victoire de Philippe Auguste, contre Jean sans Terre, roi d’Angleterre, et Othon IV , empereur d’Allemagne;;;;;;;
+1214;7;27;;;;;;;bataille de Bouvines;Victoire de Philippe Auguste contre Jean sans Terre roi d’Angleterre et Othon IV  empereur d’Allemagne;;;;;;;
 1270;;;;;;;;;mort de saint louis;Tunis;;;;;;;
 1431;5;30;;;;;;;mort de Jeanne d'Arc;condamnée pour hérésie par les Anglais;;;;;;;
-1453;;;;;;;;;prise de Constantinople par les Turcs, fin de l'Empire Romain d'orient;;;;;;;;
+1453;;;;;;;;;prise de Constantinople par les Turcs fin de l'Empire Romain d'orient;;;;;;;;
 1492;;;;;;;;;Christophe Colomb débarque en amérique;;;;;;;;
 1498;;;;;;;;;Vasco De Gama fait le tour de l'afrique;;;;;;;;
 1515;;;;;;;;;bataille de marignan;;;;;;;;
