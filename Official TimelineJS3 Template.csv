@@ -13,7 +13,6 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 -600;;;;;;;;;fondation de massalia;marseille (par des grecs venus d'Asie mineure);;;;;Archi;;
 -508;;;;;;;;;début démocratie athene;;;;;;Dirigeant;;
 -500;;;;-323;;;;;Grèce Antique - 1ère période classique;;;;;;Dirigeant;;
--500;;;;900;;;;;Le Haut Moyen Âge;;;;;;Dirigeant;;
 -447;;;;;;;;;Le Parthénon;;;;;;Archi;;
 -400;;;;-438;;;;;Théâtre d’Epidaure;;;;;;Archi;;
 -400;;;;;;;;;Théâtre de Priène;;;;;;Archi;;
@@ -27,7 +26,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 313;;;;;;;;;Edit de milan;christianisation de l'empire Romain sous Constantin 1er;;;;;;;
 406;;;;;;;;;debut invasions barbares en Gaule romaine;(Alamans Burgondes Vandales Francs...);;;;;;;
 476;;;;;;;;;Chute de l'empire romain d'occident;;;;;;Ere;;
-476;;;;1000;;;;;Haut moyen age ;;;;;;Ere;;
+476;;;;1000;;;;;Haut Moyen Age ;;;;;;Ere;;
 480;;;;;;;;;Baptistère de Poitier;;;;;;Archi;;
 481;;;;;;;;;sacre de Clovis;Reims devient le premier roi des Francs;;;;;;;
 576;;;;;;;;;naissance de Mahomet;la mecque;;;;;;;
