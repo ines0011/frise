@@ -5,8 +5,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 -3000;;;;;;;;;Premiers documents écrits;;;;;;Archi;;
 -2680;;;;;;;;;pyramide Djoser;"Première pyramide signée d'un ""architecte""";;;;;Archi;;
 -1200;;;;;;;;;invention de l'alphabet;par les phénixciens;;;;;;;
--800;;;;-500;;;;;Grèce Antique - Période Archaïque;;;;;;Ere;;
--800;;;;476;;;;;Rome Antique ;;;;;;Ere;;
+-800;;;;-500;;;;;Grèce Antique - Période Archaïque;;;;;;Dirigeant;;
 -800;;;;-27;;;;;Rome Antique - République;;;;;;Dirigeant;;
 -776;;;;;;;;;premier jeux olypiques;;;;;;;;
 -623;;;;;;;;;naissance de bouddha;inde;;;;;;;
@@ -16,7 +15,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 -447;;;;;;;;;Le Parthénon;;;;;;Archi;;
 -400;;;;-438;;;;;Théâtre d’Epidaure;;;;;;Archi;;
 -400;;;;;;;;;Théâtre de Priène;;;;;;Archi;;
--323;;;;-31;;;;;Grèce Antique - 2nde période classique;;;;;;Dirigeant;;
+-323;;;;-31;;;;;Grèce Antique - 2nde période classique (hellénistique) ;;;;;;Dirigeant;;
 -52;;;;;;;;;conquête de la Gaule par les romains;vercingétorix dépose ses armes aux pieds de Jules César;;;;;;;
 -27;;;;476;;;;;Rome Antique - Empire;;;;;;Dirigeant;;
 0;;;;;;;;;naissance de Jesus Christ;;;;;;;;
