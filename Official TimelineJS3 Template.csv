@@ -4,7 +4,6 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 -3500;;;;476;;;;;antiquité;;;;;;Ere;;
 -3000;;;;;;;;;Premiers documents écrits;;;;;;Archi;;
 -2680;;;;;;;;;pyramide Djoser;"Première pyramide signée d'un ""architecte""";;;;;Archi;;
--1650;;;;-31;;;;;Grece antique;Ere;;;;;;;
 -1200;;;;;;;;;invention de l'alphabet;par les phénixciens;;;;;;;
 -800;;;;-500;;;;;Grèce Antique - Période Archaïque;;;;;;Ere;;
 -800;;;;476;;;;;Rome Antique ;;;;;;Ere;;
@@ -28,7 +27,6 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 313;;;;;;;;;Edit de milan;christianisation de l'empire Romain sous Constantin 1er;;;;;;;
 406;;;;;;;;;debut invasions barbares en Gaule romaine;(Alamans Burgondes Vandales Francs...);;;;;;;
 476;;;;;;;;;Chute de l'empire romain d'occident;;;;;;Ere;;
-476;;;;1453;;;;;Moyen Age;;;;;;Ere;;
 476;;;;1000;;;;;Haut moyen age ;;;;;;Ere;;
 480;;;;;;;;;Baptistère de Poitier;;;;;;Archi;;
 481;;;;;;;;;sacre de Clovis;Reims devient le premier roi des Francs;;;;;;;
