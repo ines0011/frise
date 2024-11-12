@@ -15,7 +15,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 -447;;;;;;;;;Le Parthénon;;;;;;Archi;;
 -400;;;;-438;;;;;Théâtre d’Epidaure;;;;;;Archi;;
 -400;;;;;;;;;Théâtre de Priène;;;;;;Archi;;
--323;;;;-31;;;;;Grèce Antique - 2nde période classique (hellénistique) ;;;;;;Dirigeant;;
+-323;;;;-31;;;;;Grèce Antique - 2nde période classique (hellénistique);;;;;;Dirigeant;;
 -52;;;;;;;;;conquête de la Gaule par les romains;vercingétorix dépose ses armes aux pieds de Jules César;;;;;;;
 -27;;;;476;;;;;Rome Antique - Empire;;;;;;Dirigeant;;
 0;;;;;;;;;naissance de Jesus Christ;;;;;;;;
@@ -118,7 +118,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1550;;;;1560;;;;;Villa Foscari;;;;;;Archi;;
 1559;;;;1560;;;;;règne de Francois II;;;;;;Dirigeant;;
 1560;;;;;;;;;Villa barbaro ;Andrea Palladio;;;;;Archi;;
-1561;;;;1574;;;;;regne de Charles IX;;;;;;Dirigeant;;
+1560;;;;1574;;;;;regne de Charles IX;;;;;;Dirigeant;;
 1561;;;;;;;;;Livres d’architecture ;Philibert de l’Orme et Jacques Androusset du cerceau ;;;;;;;
 1562;;;;1598;;;;;guerre des religions;entre catholiques et protestants en Europe;;;;;;;
 1566;;;;1571;;;;;Villa Capra / villa rotonda;Vicence;;;;;Archi;;
@@ -187,3 +187,4 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1947;;;;1952;;;;;Unité d'habitation, Marseille;;;;;;Archi;;
 1956;;;;1973;;;;;Palais de l'Opéra de Sydney;;;;;;Archi;;
 1976;;;;;;;;;Centre Georges Pompidou;;;;;;Archi;;
+1589;;;;1610;;;;;regne de Henri IV;;;;;;;;
