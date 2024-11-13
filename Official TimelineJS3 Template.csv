@@ -122,7 +122,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1561;;;;;;;;;Livres d’architecture ;Philibert de l’Orme et Jacques Androusset du cerceau ;;;;;;;
 1562;;;;1598;;;;;guerre des religions;entre catholiques et protestants en Europe;;;;;;;
 1566;;;;1571;;;;;Villa Capra / villa rotonda;Vicence;;;;;Archi;;
-1570;;;;;;;;;Les qu’âtres livres d’architecture ;Andrea Palladio;;;;;;;
+1570;;;;;;;;;Les quatres livres d’architecture ;Andrea Palladio;;;;;;;
 1572;;;;;;;;;massacre de la Saint Barthélémy;;;;;;;;
 1574;;;;1589;;;;;règne de Henri III;;;;;;Dirigeant;;
 1600;;;;1700;;;;;Le grand siècle ;;;;;;Ere;;
@@ -188,3 +188,4 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1956;;;;1973;;;;;Palais de l'Opéra de Sydney;;;;;;Archi;;
 1976;;;;;;;;;Centre Georges Pompidou;;;;;;Archi;;
 1589;;;;1610;;;;;regne de Henri IV;;;;;;Dirigeant;;
+1610;;;;1643;;;;;regne de Louis III;;;;;;Dirigeant;;
