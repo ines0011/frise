@@ -166,6 +166,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1792;;;;1799;;;;;Première république;;;;;;Dirigeant;;
 1793;;;;1819;;;;;Capitole de Washington ;;;;;;Archi;;
 1799;;;;1815;;;;;Premier empire ;;;;;;Dirigeant;;
+1799;;;;1815;;;;;Style empire;;;;;;Mouvement;;
 1802;;;;1832;;;;;Aménagement des rues de Rivoli et des pyramides;Percier et Fontaine ;;;;;Archi;;
 1803;;;;;;;;;Pont des arts ;;;;;;Archi;;
 1805;;;;;;;;;Le précis des leçons d’architecture données à l’école polytechnique;Durand;;;;;;;
@@ -187,6 +188,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1850;;;;1851;;;;;Bibliothèque sainte Genevieve ;;;;;;Archi ;;
 1851;;;;;;;;;Crystal Palace;;;;;;Archi;;
 1851;;;;1870;;;;;Second empire ;;;;;;Dirigeant;;
+1851;;;;1870;;;;;Style empire;;;;;;Mouvement;;
 1852;;;;1855;;;;;Église saint Eugene ;Boileau ;;;;;Archi ;;
 1859;;;;;;;;;Boulevard sebastopol;Percées haussmanienes ;;;;;Archi;;
 1862;;;;;;;;;Destruction du boulevard de l’opera;;;;;;Archi;;
