@@ -149,7 +149,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1799;;;;1815;;;;;Premier empire ;;;;;;Dirigeant;;
 -776;;;;;;;;;premier jeux olypiques;;;;;;;;
 1099;;;;;;;;;première croisade et prise de Jérusalem;;;;;;;;
-1490;;;;1540;;;;;Première Renaissance Française;;;;;;Dirigeant;;
+1490;;;;1540;;;;;Première Renaissance Française;;;;;;Mouvement;;
 1792;;;;1799;;;;;Première république;;;;;;Dirigeant;;
 -3000;;;;;;;;;Premiers documents écrits;;;;;;Archi;;
 1453;;;;;;;;;prise de Constantinople par les Turcs fin de l'Empire Romain d'orient;;;;;;Ere;;
@@ -173,7 +173,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1774;;;;1789;;;;;Regne de louis XVI;;;;;;Dirigeant;;
 1180;;;;1223;;;;;règne de philipe auguste;;;;;;Dirigeant;;
 1285;;;;1314;;;;;règne de Philipe IV le Bel;;;;;;Dirigeant;;
-1300;;;;1600;;;;;Renaissance italienne;;;;;;Dirigeant;;
+1300;;;;1600;;;;;Renaissance italienne;;;;;;Mouvement;;
 1815;;;;1830;;;;;Restauration (louis XVIII, Charles X);;;;;;Dirigeant;;
 1789;;;;;;;;;Révolution française;;;;;;Ere;;
 -27;;;;476;;;;;Rome Antique - Empire;;;;;;Dirigeant;;
@@ -188,7 +188,7 @@ Year;Month;Day;Time;End Year;End Month;End Day;End Time;Display Date;Headline;Te
 1395;;;;1403;;;;;Sainte-Chapelle de Riom;;;;;;Archi;;
 1041;;;;1065;;;;;Sainte-Foy de Conques;;;;;;Archi;;
 1851;;;;1870;;;;;Second empire ;;;;;;Dirigeant;;
-1540;;;;1600;;;;;Seconde Renaissance Française;;;;;;Dirigeant;;
+1540;;;;1600;;;;;Seconde Renaissance Française;;;;;;Mouvement;;
 1715;;;;1789;;;;;Siecle des lumières;;;;;;Dirigeant;;
 1502;;;;1510;;;;;Tempietto di San Pietro;;;;;;Archi;;
 -400;;;;-438;;;;;Théâtre d’Epidaure;;;;;;Archi;;
